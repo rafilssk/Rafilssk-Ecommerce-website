@@ -18,7 +18,7 @@ if (document.readyState == "loading") {
   document.addEventListener("DOMContentLoaded", ready);
 } else {
   ready();
-}
+ }
 
 // Making Function
 function ready() {
